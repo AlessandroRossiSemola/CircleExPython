@@ -1,1 +1,1 @@
-# CircleExPython
+# A simple exercize in python
